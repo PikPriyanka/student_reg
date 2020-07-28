@@ -1,2 +1,2 @@
 # student_reg
-student regerstration using Html
+student regerstration using Html.
